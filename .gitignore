@@ -1,3 +1,7 @@
+build/*
+*.json
+*.yml
+*.yaml
 # Logs
 logs
 *.log
